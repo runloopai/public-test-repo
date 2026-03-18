@@ -1,2 +1,4 @@
 # public-test-repo
-used in git clone public repo tests
+A empty public repo for clone auth testing as part of functional tests for rage/gix.
+
+Do not delete!
